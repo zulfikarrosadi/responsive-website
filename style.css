@@ -48,9 +48,11 @@ nav .logo {
 	line-height: 70px;
 }
 
+/* Background here */
+
 main {
 	width: 100%;
-	background: url('E:/Pictures/stock photo/winter-4599238_1920.jpg') -170px;
+	background: url('https://drive.google.com/file/d/1E94OyAT-5F7IiVVB1h9shsZCpO7oQ2c_/view?usp=drivesdk.jpg') -170px;
 	height: 500px;
 	margin-top: 0;
 }
