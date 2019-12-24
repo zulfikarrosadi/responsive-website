@@ -49,10 +49,13 @@ nav .logo {
 }
 
 /* Background here */
+/* Background here */
 
 main {
 	width: 100%;
-	background: ("winter-4599238_1920.jpg") -170px;
+       
+	/* Background here */
+        background: ("winter-4599238_1920.jpg") -170px;
 	height: 500px;
 	margin-top: 0;
 }
